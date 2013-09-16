@@ -1,0 +1,11 @@
+{
+    "name": "highcharts",
+    "description": "Highcharts.com charts library",
+    "homepage": "http://highcharts.com",
+    "author": "Highcharts.com team",
+    "version": "3.0beta",
+    "git": "",
+    "packages": {
+
+    }
+}
